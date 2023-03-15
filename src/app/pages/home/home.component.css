@@ -1,0 +1,16 @@
+.banner
+{
+    background-image: url('../../../assets/img/cookie.jpg');
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+}
+.banner h1
+{
+    color: #ffffff;
+    font-size: 80px;
+    font-weight: bold;
+    top: 50%;
+    left: 15%;
+    position: absolute;
+}

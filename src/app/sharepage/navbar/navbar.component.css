@@ -1,0 +1,17 @@
+*
+{
+    background-color: rgb(58, 94, 60);
+}
+.navbar-brand
+{
+    color: white;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: white
+}
+.navbar-expand-lg .navbar-nav .nav-link.active-link
+{
+    color: var(--primary-color);
+    font-weight: bold;
+}
